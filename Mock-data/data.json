@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Peter",
+      "location": "San Fransisco",
+      "likes": 164,
+      "description": "Beauty and Bold On A long Way Home",
+      "PostImage": "https://images.unsplash.com/photo-1535535112387-56ffe8db21ff?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fHRyYWlufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500",
+      "date": "10 Jan 2021"
+    },
+    {
+      "name": "Alex",
+      "location": "Russia",
+      "likes": 123,
+      "description": "Nothing is better than getting lost in the nature",
+      "PostImage": "https://media.istockphoto.com/photos/wizard-falls-on-the-metolius-river-autumn-in-oregon-picture-id1282389397?b=1&k=20&m=1282389397&s=170667a&w=0&h=stKW8obWC5j7xyeFHikgDHsqoZQ0B4WJN_9MBGCxVQw=",
+      "date": "06 Jan 2021"
+    },
+    {
+      "name": "Alesia",
+      "location": "San Fransisco",
+      "likes": 45,
+      "description": "Till where the eyes can Go",
+      "PostImage": "https://images.unsplash.com/photo-1429041966141-44d228a42775?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnJpZGdlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500",
+      "date": "29 Dec 2020"
+    }
+  ]
+}
