@@ -3,7 +3,8 @@ const multer = require('multer');
 
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    cb(null, path.join(__dirname, 'images'));
+   cb(null, path.join(__dirname, 'images'));
+  //  console.log(path.join(__dirname, 'images'))
   },
   filename: function (req, file, cb) {
     const fileArr = file.originalname.split('.');
@@ -17,3 +18,4 @@ const storage = multer.diskStorage({
 const upload = multer({ storage: storage });
 
 module.exports = upload;
+
