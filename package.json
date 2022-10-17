@@ -8,13 +8,14 @@
     "start": "node app.js",
     "dev": "nodemon app"
   },
-  "author": "avuti bhavana",
+  "author": "Sibansu",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "mongoose": "^6.3.4",
-    "multer": "^1.4.4"
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.19"
   }
 }
